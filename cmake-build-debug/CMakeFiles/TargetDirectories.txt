@@ -1,0 +1,3 @@
+C:/Users/joaod/Desktop/POO5)/cmake-build-debug/CMakeFiles/POO5_.dir
+C:/Users/joaod/Desktop/POO5)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaod/Desktop/POO5)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
